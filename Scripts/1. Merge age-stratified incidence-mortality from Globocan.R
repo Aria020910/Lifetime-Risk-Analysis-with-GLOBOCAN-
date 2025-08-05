@@ -87,7 +87,8 @@ final_df <- do.call(rbind, results)
 head(final_df)
 
 
-#2. 拆分0-14岁年龄段为0-4，5-9，10-14，此处忽略0-4，5-9两个年龄段可能发生结直肠肿瘤的风险，我觉得这样比合并0-14年龄段的人口和全因死亡更合理
+#2. 拆分0-14岁年龄段为0-4，5-9，10-14----
+#此处忽略0-4，5-9两个年龄段可能发生结直肠肿瘤的风险，我觉得这样比合并0-14年龄段的人口和全因死亡更合理
 
 final_df_split <- final_df %>%
   # 只处理 AgeStart=0 & AgeEnd=14 这行
@@ -111,7 +112,7 @@ final_df_new <- final_df %>%
   arrange(ISOcode, AgeStart)                   # 排序
 
 
-
+#3. 保存数据----
 # 保存为CSV
 write.csv(final_df_new, "Data/colorectum/age_specific_incidence.csv", row.names = FALSE)
 

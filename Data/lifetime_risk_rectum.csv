@@ -1,0 +1,209 @@
+"Region","RegionType","lifetime_risk"
+"Afghanistan","country",0.00475583469582901
+"Africa","UN_region",0.00555205686487909
+"Albania","country",0.00971387476825888
+"Algeria","country",0.0155997761559174
+"Americas","UN_region",0.0129669139458718
+"Angola","country",0.00185235504101561
+"Argentina","country",0.00954140801688715
+"Armenia","country",0.0118309530035111
+"Asia","UN_region",0.0160105103229918
+"Australia","country",0.0224368932223194
+"Australia and New Zealand","UN_subregion",0.0240860623241846
+"Austria","country",0.0153329586536969
+"Azerbaijan","country",0.00924595244346629
+"Bahamas","country",0.0100459756816604
+"Bahrain","country",0.00811101110178519
+"Bangladesh","country",0.00359710865463709
+"Barbados","country",0.0179740319535616
+"Belarus","country",0.0262520459742117
+"Belgium","country",0.0196441912562606
+"Belize","country",0
+"Benin","country",0.00501792858081896
+"Bhutan","country",0.00487741349193861
+"Bolivia","country",0.00275945148321059
+"Bosnia & Herzegovina","country",0.0230145832290442
+"Botswana","country",0.00244542764574323
+"Brazil","country",0.0195897256002302
+"Brunei","country",0.0312247763791947
+"Bulgaria","country",0.0211476630415312
+"Burkina Faso","country",0.000792611303145223
+"Burundi","country",0.00509610771519438
+"Cambodia","country",0.0111026402975546
+"Cameroon","country",0.00380418431095345
+"Canada","country",0.0204693150746756
+"Cape Verde","country",0.00260778811855954
+"Central African Republic","country",0.00186648251304767
+"Central Asia","UN_subregion",0.00912727510432379
+"Chad","country",0.0014191889460925
+"Chile","country",0.0151385304856952
+"China","country",0.0223601279672057
+"Colombia","country",0.0111168333443369
+"Comoros","country",0.0026888321142871
+"Congo - Brazzaville","country",0.00244602434507576
+"Congo - Kinshasa","country",0.00444230472682994
+"Costa Rica","country",0.0113929749404257
+"Croatia","country",0.0356304472388251
+"Cuba","country",0.00939899959347201
+"Cyprus","country",0.0171783800299754
+"Czechia","country",0.0255038627354639
+"Côte d’Ivoire","country",0.00290338070483519
+"Denmark","country",0.03298158650872
+"Djibouti","country",0.00361522124933827
+"Dominican Republic","country",0.0037587801929554
+"Eastern Asia","UN_subregion",0.0237533069816112
+"Eastern Europe","UN_subregion",0.0235703133400536
+"Ecuador","country",0.00810588721855799
+"Egypt","country",0.0031240215728269
+"El Salvador","country",0.00389419645303579
+"Equatorial Guinea","country",0.000939925876831278
+"Eritrea","country",0.00604118064500651
+"Estonia","country",0.0286760371680434
+"Eswatini","country",0.00178509090737449
+"Ethiopia","country",0.00581159105261713
+"Europe","UN_region",0.0248313705774241
+"Fiji","country",0.0102164153910115
+"Finland","country",0.0244128333055566
+"France","country",0.0265475185153899
+"French Guiana","country",0.00716041599330837
+"French Polynesia","country",0.0186037160233447
+"Gabon","country",0.0022328219800975
+"Gambia","country",0.00267930515016757
+"Georgia","country",0.0172270817586232
+"Germany","country",0.0246254130377212
+"Ghana","country",0.00299970886423263
+"Greece","country",0.00978096982303194
+"Guadeloupe","country",0.0136501069930051
+"Guam","country",0.0109860310057751
+"Guatemala","country",0.00172845280780571
+"Guinea","country",0.00186903416814946
+"Guinea-Bissau","country",0.00193571754067102
+"Guyana","country",0.00441868023599003
+"Haiti","country",0.00387975833665006
+"Honduras","country",0.00602187425976861
+"Hungary","country",0.032347947778929
+"Iceland","country",0.0195501606890619
+"India","country",0.00398269147918358
+"Indonesia","country",0.0104494130256859
+"Iran","country",0.00742231656729997
+"Iraq","country",0.00589437745739113
+"Ireland","country",0.0333116237390707
+"Israel","country",0.0139155372352685
+"Italy","country",0.022805744713739
+"Jamaica","country",0.0118537096649319
+"Japan","country",0.0326104254218767
+"Jordan","country",0.00773757825770144
+"Kazakhstan","country",0.0143013429024882
+"Kenya","country",0.0056452173005174
+"Kuwait","country",0.00792106410365673
+"Kyrgyzstan","country",0.00859454130446124
+"Laos","country",0.0113626536801801
+"Latin America and the Caribbean","UN_subregion",0.0122155573976402
+"Latvia","country",0.0237036234928196
+"Lebanon","country",0.00725321724159655
+"Lesotho","country",0.00427876196686847
+"Liberia","country",0.00251993657130081
+"Libya","country",0.0142488845751673
+"Lithuania","country",0.0189545466061533
+"Luxembourg","country",0.0193112819673205
+"Madagascar","country",0.00530539491670507
+"Malawi","country",0.00330268740236569
+"Malaysia","country",0.0195242140930896
+"Maldives","country",0.0119336554939666
+"Mali","country",0.00580746842470749
+"Malta","country",0.0225863233526974
+"Martinique","country",0.0160922282732484
+"Mauritania","country",0.00393531020713419
+"Mauritius","country",0.0109817914648046
+"Melanesia","UN_subregion",0.00976018792282822
+"Mexico","country",0.00520260811055063
+"Micronesia","UN_subregion",0.0109860310057751
+"Moldova","country",0.0230147815382251
+"Mongolia","country",0.00347007037196519
+"Montenegro","country",0.014669647472762
+"Morocco","country",0.0104241077156186
+"Mozambique","country",0.00335474730875987
+"Myanmar (Burma)","country",0.00989201473633544
+"Namibia","country",0.00498749612663638
+"Nepal","country",0.00355689183832342
+"Netherlands","country",0.0306120515169826
+"New Caledonia","country",0.0180726849338287
+"New Zealand","country",0.0326440750962629
+"Nicaragua","country",0.00641550966707681
+"Niger","country",0.00217885741850834
+"Nigeria","country",0.00366580902871407
+"North Korea","country",0.0174818230773112
+"North Macedonia","country",0.0222653114330447
+"Northern Africa","UN_subregion",0.00823202987524306
+"Northern America","UN_subregion",0.014434506806631
+"Northern Europe","UN_subregion",0.0275880514930044
+"Norway","country",0.0331363718817018
+"Oceania","UN_region",0.0219768448479784
+"Oman","country",0.0102380021552542
+"Pakistan","country",0.0037188552785204
+"Palestinian Territories","country",0.0120874772235824
+"Panama","country",0.0100638856365065
+"Papua New Guinea","country",0.00977631734254772
+"Paraguay","country",0.00822687996620117
+"Peru","country",0.00548772978864992
+"Philippines","country",0.0167663188947132
+"Poland","country",0.0308548318297985
+"Polynesia","UN_subregion",0.0168748362013362
+"Portugal","country",0.0317583548759855
+"Puerto Rico","country",0.0134454221496457
+"Qatar","country",0.01161433099868
+"Romania","country",0.0265943075449431
+"Russia","country",0.0207873889066042
+"Rwanda","country",0.00322014298964578
+"Réunion","country",0.0180674809738041
+"Samoa","country",0.0155221652488702
+"Saudi Arabia","country",0.0142615755136061
+"Senegal","country",0.00385867430419099
+"Serbia","country",0.0323124643824081
+"Sierra Leone","country",0.000367777712190321
+"Singapore","country",0.0410248205320694
+"Slovakia","country",0.0333107770872255
+"Slovenia","country",0.0301062225978465
+"Solomon Islands","country",0.00474882318699861
+"Somalia","country",0.00556322066214376
+"South Africa","country",0.00955251849660494
+"South Korea","country",0.023541773737947
+"South Sudan","country",0.0046490726891499
+"South-eastern Asia","UN_subregion",0.0136992397463108
+"Southern Asia","UN_subregion",0.00418554154326599
+"Southern Europe","UN_subregion",0.0244480748875295
+"Spain","country",0.0269562290115951
+"Sri Lanka","country",0.00843320413344106
+"St. Lucia","country",0.00636654936952286
+"Sub-Saharan Africa","UN_subregion",0.00469174064935754
+"Sudan","country",0.0059228145938826
+"Suriname","country",0.00772419605364747
+"Sweden","country",0.0246094248701538
+"Switzerland","country",0.0216488479519865
+"Syria","country",0.0103570939744579
+"São Tomé & Príncipe","country",0.000941881112184282
+"Tajikistan","country",0.0054026555180693
+"Tanzania","country",0.00516169586488336
+"Thailand","country",0.0161116568576714
+"Timor-Leste","country",0.00684022700235879
+"Togo","country",0.00345639229393936
+"Trinidad & Tobago","country",0.0130647566325005
+"Tunisia","country",0.0112109320140476
+"Turkey","country",0.0140751377175247
+"Turkmenistan","country",0.00583008534595499
+"Uganda","country",0.00474247571786751
+"Ukraine","country",0.0204360134929497
+"United Arab Emirates","country",0.0126093252032519
+"United Kingdom","country",0.0277121611540301
+"United States","country",0.0136815323671593
+"Uruguay","country",0.0221142718557279
+"Uzbekistan","country",0.00654211165905523
+"Vanuatu","country",0.00478769156415293
+"Venezuela","country",0.00998549637934375
+"Vietnam","country",0.0156176398518983
+"Western Asia","UN_subregion",0.011778285096645
+"Western Europe","UN_subregion",0.0249969248538594
+"Yemen","country",0.0049733346623443
+"Zambia","country",0.0049611291590634
+"Zimbabwe","country",0.00642921715554116
+NA,"country",0
